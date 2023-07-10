@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>datart-data-provider</artifactId>
-        <groupId>datart</groupId>
+        <groupId>datart-github</groupId>
         <version>1.0.0-rc.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -14,7 +14,7 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
-            <groupId>datart</groupId>
+            <groupId>datart-github</groupId>
             <artifactId>datart-data-provider-base</artifactId>
             <version>${project.version}</version>
             <scope>compile</scope>

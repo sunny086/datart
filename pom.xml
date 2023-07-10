@@ -16,7 +16,7 @@
         <spring.cloud.version>2020.0.1</spring.cloud.version>
     </properties>
 
-    <groupId>datart</groupId>
+    <groupId>datart-github</groupId>
     <artifactId>datart-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0-rc.2</version>

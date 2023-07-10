@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>datart-data-provider</artifactId>
-        <groupId>datart</groupId>
+        <groupId>datart-github</groupId>
         <version>1.0.0-rc.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -34,7 +34,7 @@
             <artifactId>spring-boot-starter-freemarker</artifactId>
         </dependency>
         <dependency>
-            <groupId>datart</groupId>
+            <groupId>datart-github</groupId>
             <artifactId>datart-core</artifactId>
             <version>${project.version}</version>
             <exclusions>
